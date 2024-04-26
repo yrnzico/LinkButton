@@ -68,7 +68,3 @@ Square YouTube Button
 ## Contributing
 
 Contributions are welcome! If you have any ideas for improving LinkButton or want to report a bug, please open an issue or submit a pull request on GitHub.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
