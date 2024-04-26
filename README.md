@@ -35,8 +35,11 @@ One line of code, like this...
 
 `ws` - defines button type
 (ws: default, wss: square, wsr: round)
+
 `ws-facebook` - adds the icon button
+
 `ws-link` - put your link here
+
 See [our website][s] for all available buttons and class names
 
 ## Customization
